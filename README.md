@@ -12,3 +12,8 @@ I decided to also enter the date. Well, I made a second branch, committed the fi
 to it and merged it with the master branch. I checked everything and added the tag as a new version, 
 but then I realized that I added it to the master branch, and not to a separate commit. 
 I removed the tag, moved to the commit I needed and already added the tag to it.
+
+Вс 24 сен 2023 13:57:25 +03
+I studied the rollback tags, although I didn’t fully understand the last one, but there is no previous 
+report in which I explained that I had sorted out the lightweight tags. 
+I created two commits in the new branch and reset them.
