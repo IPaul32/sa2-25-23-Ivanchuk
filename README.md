@@ -15,3 +15,7 @@ I removed the tag, moved to the commit I needed and already added the tag to it.
 
 Вс 24 сен 2023 13:26:28 +03
 Checking lightweight tags
+
+Вс 24 сен 2023 13:36:19 +03
+This is the first change. I'll write a report in it about what I did. I added a second tag and also 
+checked the lightweight tag. I created a new branch in which I will commit this report.
