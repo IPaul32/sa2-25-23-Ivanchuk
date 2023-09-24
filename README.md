@@ -7,3 +7,8 @@ works and how to configure it :)). I created a new directory in which I initiali
 I signed whose GIT it is, but not yet globally. I created a new file (I’m writing in it now), in which
 I wrote the first line. Staged and committed this file. I created a new thread and am writing this text.
 
+Вс 24 сен 2023 13:04:38 +03
+I decided to also enter the date. Well, I made a second branch, committed the file with the changes 
+to it and merged it with the master branch. I checked everything and added the tag as a new version, 
+but then I realized that I added it to the master branch, and not to a separate commit. 
+I removed the tag, moved to the commit I needed and already added the tag to it.
