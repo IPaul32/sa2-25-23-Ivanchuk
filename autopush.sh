@@ -1,6 +1,6 @@
 #!/bin/bash
 
-remote_repositories=("github-orogin" "gitlab-origin")
+remote_repositories=("github-origin" "gitlab-origin")
 
 if [[ $(git status -s) ]]; then
 	echo "You have unsaved changes in your brunch. Please, save them before send"
